@@ -1,5 +1,5 @@
 package com.offcn;
-
+//ssh
 public class Mail {
 	//我加了注释
 	/** 发件人 **/
