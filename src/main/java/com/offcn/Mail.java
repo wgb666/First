@@ -1,7 +1,7 @@
 package com.offcn;
 
 public class Mail {
-
+	//我加了注释
 	/** 发件人 **/
 	private String from;
 	/** 收件人 **/
